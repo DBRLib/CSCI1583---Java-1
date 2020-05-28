@@ -2,7 +2,7 @@ CSCI1583 - Java 1
 
 Instructor: Aaron Maus
 
-# Contents
+# Content
 
 HW 2 - CombatCalculator
 -Iteratively design a basic combat system for a text based game.
